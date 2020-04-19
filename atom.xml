@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lengfengbao.github.io</id>
     <title>冷风暴</title>
-    <updated>2020-04-19T13:02:13.529Z</updated>
+    <updated>2020-04-19T13:04:15.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lengfengbao.github.io"/>
     <link rel="self" href="https://lengfengbao.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://lengfengbao.github.io/images/avatar.png</logo>
     <icon>https://lengfengbao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 冷风暴</rights>
+    <entry>
+        <title type="html"><![CDATA[python作桑基图]]></title>
+        <id>https://lengfengbao.github.io/post/python-zuo-sang-ji-tu/</id>
+        <link href="https://lengfengbao.github.io/post/python-zuo-sang-ji-tu/">
+        </link>
+        <updated>2020-04-19T13:02:39.000Z</updated>
+        <content type="html"><![CDATA[<p>网站测试</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://lengfengbao.github.io/post/hello-gridea/</id>
