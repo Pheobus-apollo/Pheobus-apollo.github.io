@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://Pheobus-apollo.github.io/</id>
+    <id>https://Pheobus-apollo.github.io/</id>
     <title>Pheobus-apollo</title>
-    <updated>2020-04-21T13:56:58.551Z</updated>
+    <updated>2020-04-21T14:05:10.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://Pheobus-apollo.github.io/"/>
-    <link rel="self" href="https://https://Pheobus-apollo.github.io/atom.xml"/>
+    <link rel="alternate" href="https://Pheobus-apollo.github.io/"/>
+    <link rel="self" href="https://Pheobus-apollo.github.io/atom.xml"/>
     <subtitle>Python代码</subtitle>
-    <logo>https://https://Pheobus-apollo.github.io/images/avatar.png</logo>
-    <icon>https://https://Pheobus-apollo.github.io/favicon.ico</icon>
+    <logo>https://Pheobus-apollo.github.io/images/avatar.png</logo>
+    <icon>https://Pheobus-apollo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Pheobus-apollo</rights>
     <entry>
         <title type="html"><![CDATA[python生成个性二维码]]></title>
-        <id>https://https://Pheobus-apollo.github.io/post/python-sheng-cheng-ge-xing-er-wei-ma/</id>
-        <link href="https://https://Pheobus-apollo.github.io/post/python-sheng-cheng-ge-xing-er-wei-ma/">
+        <id>https://Pheobus-apollo.github.io/post/python-sheng-cheng-ge-xing-er-wei-ma/</id>
+        <link href="https://Pheobus-apollo.github.io/post/python-sheng-cheng-ge-xing-er-wei-ma/">
         </link>
         <updated>2020-04-21T13:52:26.000Z</updated>
         <summary type="html"><![CDATA[<p>1.引言<br>
@@ -38,8 +38,8 @@
 <p>contrast=1.0,###调节图片,1.0表示原始图片</p>
 <p>brightness=1.0,###调节图片亮度</p>
 <p>save_name = '/home/apollo/python小实验/QQ.gif' #图片后缀一定要和上面一致</p>
-<p>5.效果展示<br>
-<img src="https://https://Pheobus-apollo.github.io//post-images/1587477319240.webp" alt="" loading="lazy"><br>
+<p>5.效果展示</p>
+<p><img src="https://https://Pheobus-apollo.github.io//post-images/1587477319240.webp" alt="" loading="lazy"><br>
 <img src="https://https://Pheobus-apollo.github.io//post-images/1587477327537.gif" alt="" loading="lazy"><br>
 6.补充</p>
 <p>静态个性二维码的制作和动态艺术二维码一样，只是要保证上传的图片格式是jpg或者png格式即可，输出保存时后缀也要跟上传的图片格式一致。<br>
@@ -48,7 +48,7 @@ https://www.bilibili.com/read/cv5715290<br>
 出处： bilibili</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>1.引言<br>
-<img src="https://https://Pheobus-apollo.github.io//post-images/1587477230166.gif" alt="" loading="lazy"><br>
+<img src="https://Pheobus-apollo.github.io//post-images/1587477230166.gif" alt="" loading="lazy"><br>
 这张二维码是不是很炫酷呢，没错，我们常见的二维码都是静态的，一动不动，感觉缺少点创意，今天就让我来给大家演示一下动态二维码是怎么做出来的。</p>
 <p>2.所需要的工具<br>
 ①Python + MyQR库<br>
@@ -56,7 +56,7 @@ https://www.bilibili.com/read/cv5715290<br>
 ③所需网站：https://cli.im/  (主要将二维码转换为网址)<br>
 ④自己喜欢的图片，包括GIF格式的(做动图需要)</p>
 <p>3.二维码转换为网址步骤<br>
-<img src="https://https://Pheobus-apollo.github.io//post-images/1587477277709.webp" alt="" loading="lazy"></p>
+<img src="https://Pheobus-apollo.github.io//post-images/1587477277709.webp" alt="" loading="lazy"></p>
 <p>4.代码</p>
 <p>import os</p>
 <p>from MyQR import myqr</p>
@@ -69,9 +69,9 @@ https://www.bilibili.com/read/cv5715290<br>
 <p>contrast=1.0,###调节图片,1.0表示原始图片</p>
 <p>brightness=1.0,###调节图片亮度</p>
 <p>save_name = '/home/apollo/python小实验/QQ.gif' #图片后缀一定要和上面一致</p>
-<p>5.效果展示<br>
-<img src="https://https://Pheobus-apollo.github.io//post-images/1587477319240.webp" alt="" loading="lazy"><br>
-<img src="https://https://Pheobus-apollo.github.io//post-images/1587477327537.gif" alt="" loading="lazy"><br>
+<p>5.效果展示</p>
+<p><img src="https://Pheobus-apollo.github.io//post-images/1587477319240.webp" alt="" loading="lazy"><br>
+<img src="https://Pheobus-apollo.github.io//post-images/1587477327537.gif" alt="" loading="lazy"><br>
 6.补充</p>
 <p>静态个性二维码的制作和动态艺术二维码一样，只是要保证上传的图片格式是jpg或者png格式即可，输出保存时后缀也要跟上传的图片格式一致。<br>
 作者：冷-风-暴<br>
@@ -82,8 +82,8 @@ https://www.bilibili.com/read/cv5715290<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[python作桑基图]]></title>
-        <id>https://https://Pheobus-apollo.github.io/post/python-zuo-sang-ji-tu/</id>
-        <link href="https://https://Pheobus-apollo.github.io/post/python-zuo-sang-ji-tu/">
+        <id>https://Pheobus-apollo.github.io/post/python-zuo-sang-ji-tu/</id>
+        <link href="https://Pheobus-apollo.github.io/post/python-zuo-sang-ji-tu/">
         </link>
         <updated>2020-04-19T13:02:39.000Z</updated>
         <content type="html"><![CDATA[<p>网站测试</p>
